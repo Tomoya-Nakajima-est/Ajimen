@@ -1,22 +1,9 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "wO7nPVEcaoU=",
-=======
   "dgSpecHash": "oOyZd9Twi6I=",
->>>>>>> 9ab8b41ea821301c21746a9a3b6547a97018e35b
   "success": true,
-  "projectFilePath": "C:\\Users\\Owner\\Desktop\\Ajimen\\Ajimen\\Ajimen.csproj",
+  "projectFilePath": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Ajimen.csproj",
   "expectedPackageFiles": [
-<<<<<<< HEAD
-    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.14\\microsoft.aspnetcore.openapi.8.0.14.nupkg.sha512",
-    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
-    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
-    "C:\\Users\\Owner\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
-    "C:\\Users\\Owner\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
-    "C:\\Users\\Owner\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
-    "C:\\Users\\Owner\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
-=======
     "C:\\Users\\t-nakajima\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\t-nakajima\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\t-nakajima\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
@@ -104,7 +91,13 @@
     "C:\\Users\\t-nakajima\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
     "C:\\Users\\t-nakajima\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
     "C:\\Users\\t-nakajima\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512"
->>>>>>> 9ab8b41ea821301c21746a9a3b6547a97018e35b
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "キャッシュ ファイルの読み取りの問題 C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
