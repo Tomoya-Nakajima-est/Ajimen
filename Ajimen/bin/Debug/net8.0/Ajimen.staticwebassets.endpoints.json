@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 {"Version":1,"ManifestType":"Build","Endpoints":[]}
+=======
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": []
+}
+>>>>>>> 9ab8b41ea821301c21746a9a3b6547a97018e35b
