@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yanai\\Desktop\\Ajimen\\Ajimen\\Ajimen.csproj": {}
+    "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Ajimen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yanai\\Desktop\\Ajimen\\Ajimen\\Ajimen.csproj": {
+    "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Ajimen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yanai\\Desktop\\Ajimen\\Ajimen\\Ajimen.csproj",
+        "projectUniqueName": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Ajimen.csproj",
         "projectName": "Ajimen",
-        "projectPath": "C:\\Users\\yanai\\Desktop\\Ajimen\\Ajimen\\Ajimen.csproj",
-        "packagesPath": "C:\\Users\\yanai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yanai\\Desktop\\Ajimen\\Ajimen\\obj\\",
+        "projectPath": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Ajimen.csproj",
+        "packagesPath": "C:\\Users\\t-nakajima\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\yanai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\t-nakajima\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -50,9 +50,31 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -78,7 +100,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
