@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ajimen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84007c6ea463395bd805990dbef27eb97041e452")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e09786ac8c06545804a710ffd88f9f41e5afbe2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ajimen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ajimen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
