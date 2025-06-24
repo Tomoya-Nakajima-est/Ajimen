@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\yanai\\Desktop\\Ajimen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|c:\\users\\yanai\\desktop\\ajimen\\ajimen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|solutionrelative:ajimen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yanai\\Desktop\\Ajimen\\Ajimen\\Program.cs",
+              "RelativeDocumentMoniker": "Ajimen\\Program.cs",
+              "ToolTip": "C:\\Users\\yanai\\Desktop\\Ajimen\\Ajimen\\Program.cs",
+              "RelativeToolTip": "Ajimen\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T02:12:25.236Z",
+              "EditorCaption": ""
             }
           ]
         }
