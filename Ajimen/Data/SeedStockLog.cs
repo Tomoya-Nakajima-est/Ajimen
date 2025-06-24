@@ -11,7 +11,7 @@ namespace Ajimen.Data
                 context.StockLogs.Add(new StockLog
                 {
                     StockLogId = 1,
-                    StaffId = "0001",
+                        StaffId = "0001",
                     StaffName = "谷川大虎",
                     StockDay = new DateTime(2025, 6, 23),
                     StockNum = 100,

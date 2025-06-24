@@ -4266,23 +4266,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\t-nakajima\\.nuget\\packages\\": {},
+    "C:\\Users\\Owner\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Ajimen.csproj",
+      "projectUniqueName": "C:\\Users\\Owner\\Desktop\\Ajimen\\Ajimen\\Ajimen.csproj",
       "projectName": "Ajimen",
-      "projectPath": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Ajimen.csproj",
-      "packagesPath": "C:\\Users\\t-nakajima\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\obj\\",
+      "projectPath": "C:\\Users\\Owner\\Desktop\\Ajimen\\Ajimen\\Ajimen.csproj",
+      "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Owner\\Desktop\\Ajimen\\Ajimen\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\t-nakajima\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4309,7 +4309,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -4365,7 +4365,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   },
@@ -4374,7 +4374,7 @@
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "キャッシュ ファイルの読み取りの問題 C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+      "message": "キャッシュ ファイルの読み取りの問題 C:\\Users\\Owner\\Desktop\\Ajimen\\Ajimen\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0."
     }
   ]
 }
