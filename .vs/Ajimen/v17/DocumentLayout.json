@@ -3,20 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|c:\\users\\t-nakajima\\source\\repos\\ajimen\\ajimen\\data\\seedidenitityusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|solutionrelative:ajimen\\data\\seedidenitityusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|c:\\users\\t-nakajima\\source\\repos\\ajimen\\ajimen\\controller\\shiftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|solutionrelative:ajimen\\controller\\shiftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|c:\\users\\t-nakajima\\source\\repos\\ajimen\\ajimen\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|solutionrelative:ajimen\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|c:\\users\\t-nakajima\\source\\repos\\ajimen\\ajimen\\data\\seedshift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|solutionrelative:ajimen\\data\\seedshift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|c:\\users\\t-nakajima\\source\\repos\\ajimen\\ajimen\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|solutionrelative:ajimen\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|c:\\users\\t-nakajima\\source\\repos\\ajimen\\ajimen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|solutionrelative:ajimen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|c:\\users\\t-nakajima\\source\\repos\\ajimen\\ajimen\\data\\seedidenitityusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|solutionrelative:ajimen\\data\\seedidenitityusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|c:\\users\\t-nakajima\\source\\repos\\ajimen\\ajimen\\data\\seedorderlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|solutionrelative:ajimen\\data\\seedorderlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|c:\\users\\t-nakajima\\source\\repos\\ajimen\\ajimen\\data\\seeditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|solutionrelative:ajimen\\data\\seeditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|c:\\users\\t-nakajima\\source\\repos\\ajimen\\ajimen\\models\\shift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|solutionrelative:ajimen\\models\\shift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|c:\\users\\t-nakajima\\source\\repos\\ajimen\\ajimen\\dtos\\shiftapplyrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|solutionrelative:ajimen\\dtos\\shiftapplyrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|c:\\users\\t-nakajima\\source\\repos\\ajimen\\ajimen\\data\\seedstocklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|solutionrelative:ajimen\\data\\seedstocklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|c:\\users\\t-nakajima\\source\\repos\\ajimen\\ajimen\\ajimen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|solutionrelative:ajimen\\ajimen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|c:\\users\\t-nakajima\\source\\repos\\ajimen\\ajimen\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|solutionrelative:ajimen\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|c:\\users\\t-nakajima\\source\\repos\\ajimen\\ajimen\\models\\orderlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|solutionrelative:ajimen\\models\\orderlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|c:\\users\\t-nakajima\\source\\repos\\ajimen\\ajimen\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|solutionrelative:ajimen\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|c:\\users\\t-nakajima\\source\\repos\\ajimen\\ajimen\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|solutionrelative:ajimen\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|c:\\users\\t-nakajima\\source\\repos\\ajimen\\ajimen\\controller\\strocklogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,40 +75,12 @@
       "RelativeMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|solutionrelative:ajimen\\controller\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|c:\\users\\t-nakajima\\source\\repos\\ajimen\\ajimen\\data\\seeditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|solutionrelative:ajimen\\data\\seeditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|c:\\users\\t-nakajima\\source\\repos\\ajimen\\ajimen\\data\\seedstocklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|solutionrelative:ajimen\\data\\seedstocklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|c:\\users\\t-nakajima\\source\\repos\\ajimen\\ajimen\\data\\seedorderlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|solutionrelative:ajimen\\data\\seedorderlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|c:\\users\\t-nakajima\\source\\repos\\ajimen\\ajimen\\models\\stocklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|solutionrelative:ajimen\\models\\stocklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|c:\\users\\t-nakajima\\source\\repos\\ajimen\\ajimen\\models\\orderlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|solutionrelative:ajimen\\models\\orderlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|c:\\users\\t-nakajima\\source\\repos\\ajimen\\ajimen\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|solutionrelative:ajimen\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|c:\\users\\t-nakajima\\source\\repos\\ajimen\\ajimen\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|solutionrelative:ajimen\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|c:\\users\\t-nakajima\\source\\repos\\ajimen\\ajimen\\ajimen.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|solutionrelative:ajimen\\ajimen.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|c:\\users\\t-nakajima\\source\\repos\\ajimen\\ajimen\\ajimen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CE09B613-1CBF-49DC-B2A1-928E95AA2A1A}|Ajimen\\Ajimen.csproj|solutionrelative:ajimen\\ajimen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,20 +98,176 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeedShift.cs",
+              "DocumentMoniker": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Data\\SeedShift.cs",
+              "RelativeDocumentMoniker": "Ajimen\\Data\\SeedShift.cs",
+              "ToolTip": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Data\\SeedShift.cs",
+              "RelativeToolTip": "Ajimen\\Data\\SeedShift.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:25:35.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SeedOrderLog.cs",
+              "DocumentMoniker": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Data\\SeedOrderLog.cs",
+              "RelativeDocumentMoniker": "Ajimen\\Data\\SeedOrderLog.cs",
+              "ToolTip": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Data\\SeedOrderLog.cs",
+              "RelativeToolTip": "Ajimen\\Data\\SeedOrderLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:04:53.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Program.cs",
+              "RelativeDocumentMoniker": "Ajimen\\Program.cs",
+              "ToolTip": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Program.cs",
+              "RelativeToolTip": "Ajimen\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAQwD4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T02:29:49.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Ajimen\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Ajimen\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:36:17.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ShiftController.cs",
+              "DocumentMoniker": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Controller\\ShiftController.cs",
+              "RelativeDocumentMoniker": "Ajimen\\Controller\\ShiftController.cs",
+              "ToolTip": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Controller\\ShiftController.cs",
+              "RelativeToolTip": "Ajimen\\Controller\\ShiftController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAiwFgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:49:35.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "SeedIdenitityUsers.cs",
               "DocumentMoniker": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Data\\SeedIdenitityUsers.cs",
               "RelativeDocumentMoniker": "Ajimen\\Data\\SeedIdenitityUsers.cs",
               "ToolTip": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Data\\SeedIdenitityUsers.cs",
               "RelativeToolTip": "Ajimen\\Data\\SeedIdenitityUsers.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-23T10:23:30.611Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
+              "Title": "SeedItem.cs",
+              "DocumentMoniker": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Data\\SeedItem.cs",
+              "RelativeDocumentMoniker": "Ajimen\\Data\\SeedItem.cs",
+              "ToolTip": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Data\\SeedItem.cs",
+              "RelativeToolTip": "Ajimen\\Data\\SeedItem.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:04:16.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Shift.cs",
+              "DocumentMoniker": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Models\\Shift.cs",
+              "RelativeDocumentMoniker": "Ajimen\\Models\\Shift.cs",
+              "ToolTip": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Models\\Shift.cs",
+              "RelativeToolTip": "Ajimen\\Models\\Shift.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T01:41:32.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShiftApplyRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Dtos\\ShiftApplyRequestDto.cs",
+              "RelativeDocumentMoniker": "Ajimen\\Dtos\\ShiftApplyRequestDto.cs",
+              "ToolTip": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Dtos\\ShiftApplyRequestDto.cs",
+              "RelativeToolTip": "Ajimen\\Dtos\\ShiftApplyRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:58:44.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SeedStockLog.cs",
+              "DocumentMoniker": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Data\\SeedStockLog.cs",
+              "RelativeDocumentMoniker": "Ajimen\\Data\\SeedStockLog.cs",
+              "ToolTip": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Data\\SeedStockLog.cs",
+              "RelativeToolTip": "Ajimen\\Data\\SeedStockLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:05:33.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Controller\\UserController.cs",
+              "RelativeDocumentMoniker": "Ajimen\\Controller\\UserController.cs",
+              "ToolTip": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Controller\\UserController.cs",
+              "RelativeToolTip": "Ajimen\\Controller\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:04:45.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ajimen.csproj",
+              "DocumentMoniker": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Ajimen.csproj",
+              "RelativeDocumentMoniker": "Ajimen\\Ajimen.csproj",
+              "ToolTip": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Ajimen.csproj",
+              "RelativeToolTip": "Ajimen\\Ajimen.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-23T02:46:22.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderLog.cs",
+              "DocumentMoniker": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Models\\OrderLog.cs",
+              "RelativeDocumentMoniker": "Ajimen\\Models\\OrderLog.cs",
+              "ToolTip": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Models\\OrderLog.cs",
+              "RelativeToolTip": "Ajimen\\Models\\OrderLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T02:51:11.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "Ajimen\\Models\\ApplicationUser.cs",
@@ -103,35 +275,25 @@
               "RelativeToolTip": "Ajimen\\Models\\ApplicationUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T10:23:22.141Z"
+              "WhenOpened": "2025-06-23T10:23:22.141Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Program.cs",
-              "RelativeDocumentMoniker": "Ajimen\\Program.cs",
-              "ToolTip": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Program.cs",
-              "RelativeToolTip": "Ajimen\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBYAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "Ajimen\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Models\\Item.cs",
+              "RelativeToolTip": "Ajimen\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T02:29:49.939Z"
+              "WhenOpened": "2025-06-23T02:48:29.164Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Controller\\UserController.cs",
-              "RelativeDocumentMoniker": "Ajimen\\Controller\\UserController.cs",
-              "ToolTip": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Controller\\UserController.cs",
-              "RelativeToolTip": "Ajimen\\Controller\\UserController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAwCMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T08:04:45.086Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "ItemController.cs",
               "DocumentMoniker": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Controller\\ItemController.cs",
               "RelativeDocumentMoniker": "Ajimen\\Controller\\ItemController.cs",
@@ -143,19 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SeedStockLog.cs",
-              "DocumentMoniker": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Data\\SeedStockLog.cs",
-              "RelativeDocumentMoniker": "Ajimen\\Data\\SeedStockLog.cs",
-              "ToolTip": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Data\\SeedStockLog.cs",
-              "RelativeToolTip": "Ajimen\\Data\\SeedStockLog.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBYAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T05:05:33.473Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "OrederLogController.cs",
               "DocumentMoniker": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Controller\\OrederLogController.cs",
               "RelativeDocumentMoniker": "Ajimen\\Controller\\OrederLogController.cs",
@@ -167,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "StrockLogController.cs",
               "DocumentMoniker": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Controller\\StrockLogController.cs",
               "RelativeDocumentMoniker": "Ajimen\\Controller\\StrockLogController.cs",
@@ -179,31 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SeedItem.cs",
-              "DocumentMoniker": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Data\\SeedItem.cs",
-              "RelativeDocumentMoniker": "Ajimen\\Data\\SeedItem.cs",
-              "ToolTip": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Data\\SeedItem.cs",
-              "RelativeToolTip": "Ajimen\\Data\\SeedItem.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T05:04:16.436Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SeedOrderLog.cs",
-              "DocumentMoniker": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Data\\SeedOrderLog.cs",
-              "RelativeDocumentMoniker": "Ajimen\\Data\\SeedOrderLog.cs",
-              "ToolTip": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Data\\SeedOrderLog.cs",
-              "RelativeToolTip": "Ajimen\\Data\\SeedOrderLog.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAwAwAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T05:04:53.802Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "StockLog.cs",
               "DocumentMoniker": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Models\\StockLog.cs",
               "RelativeDocumentMoniker": "Ajimen\\Models\\StockLog.cs",
@@ -215,43 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "OrderLog.cs",
-              "DocumentMoniker": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Models\\OrderLog.cs",
-              "RelativeDocumentMoniker": "Ajimen\\Models\\OrderLog.cs",
-              "ToolTip": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Models\\OrderLog.cs",
-              "RelativeToolTip": "Ajimen\\Models\\OrderLog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T02:51:11.751Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Models\\Item.cs",
-              "RelativeDocumentMoniker": "Ajimen\\Models\\Item.cs",
-              "ToolTip": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Models\\Item.cs",
-              "RelativeToolTip": "Ajimen\\Models\\Item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T02:48:29.164Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Ajimen\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Ajimen\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T04:36:17.593Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "Ajimen.http",
               "DocumentMoniker": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Ajimen.http",
               "RelativeDocumentMoniker": "Ajimen\\Ajimen.http",
@@ -260,18 +350,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2025-06-23T04:57:57.173Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Ajimen.csproj",
-              "DocumentMoniker": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Ajimen.csproj",
-              "RelativeDocumentMoniker": "Ajimen\\Ajimen.csproj",
-              "ToolTip": "C:\\Users\\t-nakajima\\source\\repos\\Ajimen\\Ajimen\\Ajimen.csproj",
-              "RelativeToolTip": "Ajimen\\Ajimen.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-23T02:46:22.207Z"
             }
           ]
         }

@@ -60,6 +60,7 @@ public class Program
             SeedItem.Initialize(db);
             SeedOrdeLog.Initialize(db);
             SeedStockLog.Initialize(db);
+            SeedShift.Initialize(db);
 
             var userManager = scope.ServiceProvider.GetRequiredService<UserManager<ApplicationUser>>();
             await SeedIdentityUsers.InitializeAsync(userManager); // 非同期で初期ユーザー登録

@@ -15,5 +15,7 @@ namespace Ajimen.Data
         public DbSet<Item> Items { get; set; }
         public DbSet<OrderLog> OrderLogs { get; set; }
         public DbSet<StockLog> StockLogs { get; set; }
+
+        public DbSet<Shift> Shifts { get; set; }
     }
 }
