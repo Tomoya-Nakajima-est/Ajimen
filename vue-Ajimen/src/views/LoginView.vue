@@ -49,7 +49,34 @@ const handleLogin = async () => {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #fefaf6;
+  background-color: #460125;
+  overflow: hidden;
+  z-index: 0;
+}
+/*クロス線の追加*/ 
+.login-container::before,
+.login-container::after{
+  content:'';
+  position: absolute;
+  background-color: black;
+  z-index: 1;
+}
+/*横線*/
+.login-container::before{
+  bottom: 60px;
+  left: 0;
+  width: 100%;
+  height: 50px;
+  transform: rotate(0deg);
+}
+
+/*縦線*/
+.login-container::after{
+  bottom: 0px;
+  left: 120px;
+  width: 50px;
+  height: 100%;
+  transform: rotate(0deg);
 }
 
 .login-box {
@@ -60,6 +87,7 @@ const handleLogin = async () => {
   border: 1px solid #ccc;
   text-align: center;
   font-family: 'Georgia', serif;
+  z-index: 2;
 }
 
 h1 {
